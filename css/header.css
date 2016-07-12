@@ -1,0 +1,126 @@
+.sprite-sprite, .number_imgPhone, .control__house, .control__network, .control__letter, .check_imgBody {
+  background-image: url('../img/../img/sprite-sd80f8a628f.png');
+  background-repeat: no-repeat;
+}
+
+.number {
+  float: left;
+  font-family: Arial, Tahoma, sans-serif;
+}
+.number_phone {
+  display: inline-block;
+  width: 264px;
+  padding-left: 26px;
+  color: #5e696d;
+  font-size: 18px;
+  padding-top: 1px;
+  letter-spacing: 0.3px;
+}
+.number_imgPhone {
+  background-position: 0 -771px;
+  display: block;
+  width: 22px;
+  height: 21px;
+  margin: 5px 0 0 7px;
+}
+
+.control {
+  float: right;
+  border: 1px solid #c1c8cb;
+  padding: 0 8px 4px 8px;
+  border-radius: 12px;
+  box-shadow: 0px 2px 2px 0px rgba(0, 0, 0, 0.38);
+  margin-right: 8px;
+  margin-top: 1px;
+}
+.control_link {
+  margin-right: 4px;
+}
+.control__house {
+  background-position: 0 -137px;
+  display: inline-block;
+  width: 12px;
+  height: 11px;
+}
+.control__network {
+  background-position: 0 -707px;
+  display: inline-block;
+  width: 14px;
+  height: 10px;
+}
+.control__letter {
+  background-position: 0 -492px;
+  display: inline-block;
+  width: 12px;
+  height: 9px;
+}
+
+.check {
+  width: 477px;
+  float: right;
+  margin-right: 17px;
+  padding: 3px 10px 4px 8px;
+  background: linear-gradient(to top, #0d3458, #1f6787);
+  border-radius: 2px;
+  box-shadow: 2px 2px 2px 0px #b4b4b4;
+  font-size: 0;
+}
+.check_imgBody {
+  background-position: 0 -23px;
+  float: left;
+  width: 14px;
+  height: 18px;
+}
+.check_forget {
+  float: right;
+  padding-top: 3px;
+  padding-bottom: 2px;
+  font-size: 11px;
+  border-bottom: 1px solid #7c8794;
+  color: #bfbfbf;
+  letter-spacing: 0.5px;
+}
+
+.form {
+  display: inline-block;
+}
+.form_input {
+  width: 108px;
+  padding-left: 2px;
+  color: #97a2a6;
+  font-family: Lucida Sans Unicode, Arial sans-serif;
+  border: 1px solid #dee0e0;
+  box-shadow: none;
+  font-size: 11px;
+}
+.form__login {
+  margin-right: 9px;
+  margin-left: 4px;
+}
+.form_enter {
+  padding-left: 5px;
+  margin-top: 4px;
+  background-color: transparent;
+  border: none;
+  color: #fff;
+  padding-right: 3px;
+  cursor: pointer;
+}
+.form_register {
+  background-color: transparent;
+  border: none;
+  color: #fff;
+  cursor: pointer;
+  border-left: 1px solid #fff;
+  padding-left: 2px;
+}
+.form__submit {
+  line-height: 9px;
+  font-size: 11px;
+  font-family: Lucida Sans Unicode, Arial sans-serif;
+  letter-spacing: -0.4px;
+}
+
+.bg {
+  padding: 10px 0 5px 0;
+}

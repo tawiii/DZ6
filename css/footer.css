@@ -1,0 +1,33 @@
+.footer {
+  height: 100px;
+  background-color: #213a4d;
+  font-family: Arial, Tahoma, sans-serif;
+  text-align: center;
+}
+.footer_last {
+  text-align: center;
+  width: 157px;
+  font-size: 10px;
+  color: #7f4740;
+}
+
+.foote {
+  font-size: 0;
+}
+.foote_item {
+  display: inline-block;
+}
+.foote_link {
+  display: block;
+  color: #bec6c9;
+  font-size: 12px;
+  border-right: 2px solid #8d989f;
+  padding-right: 10px;
+  margin: 13px 3px 10px 12px;
+}
+.foote_link:hover {
+  color: #52abcb;
+}
+.foote__contacts {
+  border: none;
+}
