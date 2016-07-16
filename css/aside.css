@@ -1,5 +1,5 @@
 .sprite-sprite, .button_imgPage, .button_imgTire, .amenu_item:before, .amenu_link:hover:before {
-  background-image: url('../img/../img/sprite-sd80f8a628f.png');
+  background-image: url('../img/../img/sprite-sf878a3abc5.png');
   background-repeat: no-repeat;
 }
 
@@ -11,7 +11,7 @@
   display: block;
   float: left;
   margin-top: 163px;
-  padding: 0 6px 0 3px;
+  padding: 0 3px 0 3px;
   width: 174px;
   line-height: 25px;
   color: #114165;
@@ -22,7 +22,7 @@
   clear: both;
 }
 .button_imgPage {
-  background-position: 0 -511px;
+  background-position: 0 -509px;
   float: left;
   display: block;
   height: 23px;
@@ -30,18 +30,21 @@
   padding: 0 5px 0 19px;
 }
 .button__tire {
-  width: 138px;
-  margin: 13px 0 -1px 2px;
+  width: 142px;
+  margin: 13px 0 3px 2px;
   font-size: 14px;
   box-shadow: none;
 }
 .button_imgTire {
-  background-position: 0 -459px;
+  background-position: 0 -457px;
   float: left;
   display: block;
   height: 23px;
   margin: 1px -3px 2px -1px;
   padding: 0 5px 0 23px;
+}
+.button_master {
+  margin: 8px 0 1px 0;
 }
 
 .amenu {
@@ -49,17 +52,17 @@
   clear: both;
   position: relative;
   margin-bottom: -12px;
-  line-height: 23px;
 }
 .amenu_item {
   width: 117px;
+  margin-bottom: 9px;
 }
 .amenu_item:before {
   content: "";
-  background-position: 0 -749px;
+  background-position: 0 -747px;
   position: absolute;
   left: -12px;
-  margin-top: 8px;
+  margin-top: 4px;
   width: 12px;
   height: 12px;
 }
@@ -77,12 +80,15 @@
 }
 .amenu_link:hover:before {
   content: "";
-  background-position: 0 -727px;
+  background-position: 0 -725px;
   position: absolute;
   left: -12px;
-  margin-top: 8px;
+  margin-top: 4px;
   width: 12px;
   height: 12px;
+}
+.amenu__indented {
+  margin-bottom: 9px;
 }
 
 .asideR {
@@ -93,8 +99,8 @@
   font-size: 14px;
 }
 .asideR__mardg {
-  margin: 13px 0 2px 15px;
-  width: 124px;
+  margin: 13px 0 2px 13px;
+  width: 128px;
 }
 
 .form_inp {

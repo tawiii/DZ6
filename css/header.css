@@ -1,5 +1,5 @@
 .sprite-sprite, .number_imgPhone, .control__house, .control__network, .control__letter, .check_imgBody {
-  background-image: url('../img/../img/sprite-sd80f8a628f.png');
+  background-image: url('../img/../img/sprite-s814be448bc.png');
   background-repeat: no-repeat;
 }
 
@@ -17,7 +17,7 @@
   letter-spacing: 0.3px;
 }
 .number_imgPhone {
-  background-position: 0 -771px;
+  background-position: 0 -908px;
   display: block;
   width: 22px;
   height: 21px;
@@ -43,13 +43,13 @@
   height: 11px;
 }
 .control__network {
-  background-position: 0 -707px;
+  background-position: 0 -844px;
   display: inline-block;
   width: 14px;
   height: 10px;
 }
 .control__letter {
-  background-position: 0 -492px;
+  background-position: 0 -490px;
   display: inline-block;
   width: 12px;
   height: 9px;
@@ -103,16 +103,16 @@
   background-color: transparent;
   border: none;
   color: #fff;
-  padding-right: 3px;
+  padding-right: 4px;
   cursor: pointer;
+  border-right: 1px solid #fff;
 }
 .form_register {
   background-color: transparent;
   border: none;
   color: #fff;
   cursor: pointer;
-  border-left: 1px solid #fff;
-  padding-left: 2px;
+  padding-left: 5px;
 }
 .form__submit {
   line-height: 9px;

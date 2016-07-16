@@ -1,20 +1,20 @@
 .sprite-sprite, .figure_sprite, .figure_nokian, .figure_hankook, .lable_toyo, .lable_bridge, .lable_contin, .lable_cooper, .lable_avon, .lable_factory, .lable_firreli, .lable_dunlop {
-  background-image: url('../img/../img/sprite-sd80f8a628f.png');
+  background-image: url('../img/../img/sprite-sf878a3abc5.png');
   background-repeat: no-repeat;
 }
 
 .wrapper {
-  width: 492px;
+  width: 482px;
   border-radius: 3px;
   margin: 161px auto;
-  padding: 13px 0 5px 38px;
+  padding: 13px 2px 5px 41px;
   background: linear-gradient(to top, #93a7b0, #e5e7e8);
   overflow: hidden;
 }
 
 .figure {
   float: left;
-  margin: 0 39px 25px -15px;
+  margin: 0 48px 25px -20px;
 }
 .figure_figcaption {
   width: 140px;
@@ -33,7 +33,7 @@
   height: 129px;
 }
 .figure_nokian {
-  background-position: 0 -544px;
+  background-position: 0 -542px;
 }
 .figure_hankook {
   background-position: 0 -320px;
@@ -55,6 +55,10 @@
   font-size: 12px;
 }
 
+.sss {
+  margin-right: 1px;
+}
+
 .lable {
   text-align: center;
   margin: -125px 0 25px 0;
@@ -64,7 +68,7 @@
   margin-right: 8px;
 }
 .lable_toyo {
-  background-position: 0 -866px;
+  background-position: 0 -864px;
   width: 83px;
   height: 21px;
 }
@@ -89,12 +93,12 @@
   height: 21px;
 }
 .lable_factory {
-  background-position: 0 -829px;
+  background-position: 0 -827px;
   width: 57px;
   height: 27px;
 }
 .lable_firreli {
-  background-position: 0 -683px;
+  background-position: 0 -681px;
   width: 61px;
   height: 21px;
 }
