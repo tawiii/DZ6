@@ -1,5 +1,5 @@
 .sprite-sprite, .number_imgPhone, .control__house, .control__network, .control__letter, .check_imgBody {
-  background-image: url('../img/../img/sprite-s814be448bc.png');
+  background-image: url('../img/../img/sprite-sf878a3abc5.png');
   background-repeat: no-repeat;
 }
 
@@ -17,7 +17,7 @@
   letter-spacing: 0.3px;
 }
 .number_imgPhone {
-  background-position: 0 -908px;
+  background-position: 0 -769px;
   display: block;
   width: 22px;
   height: 21px;
@@ -43,7 +43,7 @@
   height: 11px;
 }
 .control__network {
-  background-position: 0 -844px;
+  background-position: 0 -705px;
   display: inline-block;
   width: 14px;
   height: 10px;

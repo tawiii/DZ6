@@ -99,17 +99,18 @@
   font-size: 14px;
 }
 .asideR__mardg {
-  margin: 13px 0 2px 13px;
+  margin: 13px 0 5px 13px;
   width: 128px;
 }
 
 .form_inp {
   margin-right: 6px;
-  margin-left: 23px;
+  margin-left: 21px;
+  margin-bottom: 6px;
   vertical-align: middle;
+  margin-top: 4px;
 }
 .form_labl {
-  line-height: 24px;
   font-size: 13px;
   color: #465961;
   cursor: pointer;
